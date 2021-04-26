@@ -39,4 +39,9 @@
         F. This outputs true, since Boolean(2) gets converted to true, so because they are both the same type and value, the operator "===" returns true.
     15) While both "==" and "===" both check for equality, "===" does so without type conversion.
     17) The result would be a new array with all the original values doubled ([1,2,3] -> [2,4,6]). This is because the function that gets passed as a parameter takes in a number and returns that number doubled, and the function gets applied to every element in the original array and gets appended to the new array.
+    19) This code outputs "1
+                           4
+                           3
+                           2"
+    
     
